@@ -1,0 +1,1 @@
+Generador de carta de poker al azar al cargar la pagina realizado con JavaScript por Maximiliano Eekhout
